@@ -1,1 +1,38 @@
-[{"url":"mangabuddy.com","logo":"https://www.mreader.co/static/img/logo_200x200.png","title":"M-Reader","params":["hot","popular","updated","completed","new"]},{"url":"mangageko.com","logo":"https://www.mangageko.com/static/img/logo_200x200.png","title":"M-Reader","params":["hot","popular","updated","completed","new"]},{"url":"manganato.com","logo":"https://www.manganato.com/themes/hm/images/logo.png","title":"Manganato","params":["hot","popular","updated","completed","new"]}]
+[
+  {
+    "url": "mangabuddy.com",
+    "logo": "https://www.mreader.co/static/img/logo_200x200.png",
+    "title": "M-Reader",
+    "params": [
+      "hot",
+      "popular",
+      "updated",
+      "completed",
+      "new"
+    ]
+  },
+  {
+    "url": "mangageko.com",
+    "logo": "https://www.mangageko.com/static/img/logo_200x200.png",
+    "title": "M-Reader",
+    "params": [
+      "hot",
+      "popular",
+      "updated",
+      "completed",
+      "new"
+    ]
+  },
+  {
+    "url": "manganato.com",
+    "logo": "https://www.manganato.com/themes/hm/images/logo.png",
+    "title": "Manganato",
+    "params": [
+      "hot",
+      "popular",
+      "updated",
+      "completed",
+      "new"
+    ]
+  }
+]
