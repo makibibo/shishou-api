@@ -49,14 +49,11 @@
   },
   {
     "url": "scribblehub.com",
-    "logo": "https://avatar.novelonlinefree.com/avatar_novels/33879-1607588421.jpg",
-    "title": "BestLightNovel",
+    "logo": "https://cdn.scribblehub.com/seriesimg/mid/20/mid_413997.jpg",
+    "title": "Scribble Hub",
     "params": [
-      "hot",
       "popular",
-      "updated",
-      "completed",
-      "new"
+      "updated"
     ]
   }
 ]
